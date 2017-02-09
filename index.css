@@ -1,1 +1,12 @@
+li {
+    display: inline;
+}
+li {
+    float: left;
+}
 
+a {
+    display: block;
+    padding: 10px;
+    background-color: #45bfe8;
+}
