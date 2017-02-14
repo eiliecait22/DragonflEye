@@ -165,3 +165,8 @@ body {
   right: 0;
 }
 
+h1 {
+    color: #45bfe8 ;
+    text-align: center;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif
+}
