@@ -7,18 +7,18 @@ li {
 
 a {
     display: block;
-    padding: 10px;
+    padding: 15px;
     background-color: #43f9fb;
 }
 ul {
-    background-color:#45bfe8 ;
+    background-color:#43f9fb ;
 }
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #45bfe8;
+    background-color: #43f9fb;
 }
 
 li {
