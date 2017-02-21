@@ -15,8 +15,8 @@ ul {
 }
 ul {
     list-style-type: none;
-    margin: 10px;
-    padding: 0px;
+    margin: 0px;
+    padding: 20px;
     overflow: hidden;
     background-color: #43f9fb;
 }
