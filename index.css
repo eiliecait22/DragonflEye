@@ -8,17 +8,17 @@ li {
 a {
     display: block;
     padding: 15px;
-    background-color: #43f9fb;
+    background-color: #32bed3;
 }
 ul {
-    background-color:#43f9fb ;
+    background-color:#32bed3 ;
 }
 ul {
     list-style-type: none;
     margin: 0px;
     padding: 15px;
     overflow: hidden;
-    background-color: #43f9fb;
+    background-color: #32bed3;
 }
 
 li {
@@ -36,7 +36,7 @@ li a:hover {
     background-color: #268466;
 }
 .active {
-    background-color: #43f9fb;
+    background-color: #32bed3;
 }
 
 body {
