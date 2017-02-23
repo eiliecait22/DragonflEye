@@ -63,7 +63,7 @@ body {
 .wrapper {
         display: grid;
     grid-gap: 10px;
-        grid-template-columns: 50% 50%;
+        grid-template-columns: 150% 150% ;
         grid-template-areas:
     "header  header"
         "sidebar content"
